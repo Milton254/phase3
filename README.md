@@ -64,7 +64,7 @@ The dataset in Syriatel encompasses the following features
     Total Night Minutes: Total minutes used during the night
 
     Total Night Calls: Total number of calls made during the night
-
+    
     Total Night Charge: Total charges for nighttime usage
 
     Total International Minutes: Total international minutes used
@@ -76,7 +76,7 @@ The dataset in Syriatel encompasses the following features
     Customer Service Calls: Number of customer service calls made
 
     Churn: Indicates whether the customer has churned
-    
+
 ### Model Success
 The model ability to accurately predict customer churn as measured on perfromance metrics such as accuracy, precision, recall, and F1-score. In addition, compare the model to baseline models and provide actionable insights to impliment customer retention stategies.
 
