@@ -38,25 +38,45 @@ By predicting churn in advance, SyriaTel can implement targeted retention strate
 ### Data Description
 The dataset in Syriatel encompasses the following features
     State: Customer's state of residence
+
     Account Length: Number of days with the telecom company
+
     Area Code: Area code of the customer's phone number
+
     International Plan: Whether the customer has an international calling plan
+
     Voice Mail Plan: Whether the customer has a voice mail plan .
+
     Number of Voicemail Messages: Count of voicemail messages received
+
     Total Day Minutes: Total minutes used during the daytime
+
     Total Day Calls: Total number of calls made during the daytime
+
     Total Day Charge: Total charges for daytime usage
+
     Total Evening Minutes: Total minutes used during the evening
+
     Total Evening Calls: Total number of calls made during the evening
+
     Total Evening Charge: Total charges for evening usage
+
     Total Night Minutes: Total minutes used during the night
+
     Total Night Calls: Total number of calls made during the night
+
     Total Night Charge: Total charges for nighttime usage
+
     Total International Minutes: Total international minutes used
+
     Total International Calls: Total international calls made
+
     Total International Charge: Total charges for international usage
+
     Customer Service Calls: Number of customer service calls made
+
     Churn: Indicates whether the customer has churned
+    
 ### Model Success
 The model ability to accurately predict customer churn as measured on perfromance metrics such as accuracy, precision, recall, and F1-score. In addition, compare the model to baseline models and provide actionable insights to impliment customer retention stategies.
 
