@@ -84,9 +84,6 @@ The model ability to accurately predict customer churn as measured on perfromanc
 
 ![alt text](image.png)
 
-### Scatterplots Numerical variables vs Churn
-![alt text](image-1.png)
-
 ### Correlation Heatmap
 ![alt text](image-2.png)
 
