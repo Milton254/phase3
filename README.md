@@ -84,6 +84,9 @@ The model ability to accurately predict customer churn as measured on perfromanc
 
 ![alt text](image.png)
 
+### Scatterplots Numerical variables vs Churn
+![alt text](image-1.png)
+
 ### Correlation Heatmap
 ![alt text](image-2.png)
 
@@ -139,6 +142,8 @@ The model ability to accurately predict customer churn as measured on perfromanc
 2                  SVM  0.835731   0.459459   0.544  0.498168
 5  Logistic Regression  0.690647   0.280528   0.680  0.397196
 4                  KNN  0.673861   0.259016   0.632  0.367442
+## Models Comparison
+![alt text](image-19.png)
 
 ## Confusion Matrix
 ![alt text](image-15.png)
